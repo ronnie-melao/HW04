@@ -1,5 +1,5 @@
 import requests
-import modules
+import json
 
 def getUserRepoCommits(username):
     # get url using username input

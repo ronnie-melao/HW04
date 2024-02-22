@@ -6,4 +6,4 @@ install:
 
 # command to run tests
 script:
-  - python -m unittest Testing
+  - python -m unittest Testing.py
